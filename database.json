@@ -1,0 +1,43 @@
+{
+    "animals": [
+        { "id": 1, "name": "Count Olaf", "breed": "Poodle"},
+        { "id": 2, "name": "Klaus", "breed": "Great Dane" },
+        { "id": 3, "name": "Esme", "breed": "Pitbull" },
+        { "id": 4, "name": "Mr. Poe", "breed": "Corgi" }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Luke Skywalker",
+            "address": "976 Tatooine Dr."
+        },
+         {
+            "id": 2,
+            "name": "Padmé Amidala",
+            "address": "1211 Naboo Lane"
+        },
+        {
+            "id": 3,
+            "name": "Jar Jar Binks",
+            "address": "1300 Galactic Capital Way" 
+        },
+        {
+            "id": 4,
+            "name": "Darth Maul",
+            "address": "600 Dathomirian Blvd."
+        }
+    ],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+}
